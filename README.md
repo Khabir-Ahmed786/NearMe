@@ -36,14 +36,14 @@ Execute the programs and publish them.
     <title>Map</title>
 </head>
 <body>
-    <img src="map.png" usemap="#image-map">
+    <img src="ex 4 fwad.png" usemap="#image-map">
 
     <map name="image-map">
-        <area target="_blank" alt="Guindy National Park" title="Guindy National Park" href="park.html" coords="874,649,1028,721" shape="rect">
-        <area target="_blank" alt="Edward Elliot's Beach" title="Edward Elliot's Beach" href="beach.html" coords="1642,713,1918,779" shape="rect">
-        <area target="_blank" alt="Phoenix Mall" title="Phoenix Mall" href="mall.html" coords="548,879,764,945" shape="rect">
-        <area target="_blank" alt="Indian Institute of Technology" title="Indian Institute of Technology" href="IIT.html" coords="903,852,1099,918" shape="rect">
-        <area target="_blank" alt="ITC grand chola" title="ITC grand chola" href="itc.html" coords="755,490,904,580" shape="rect">
+        <area target="_blank" alt="VR Mall" title="VR Mall" href="vr.html" coords="453,362,538,398" shape="rect">
+        <area target="_blank" alt="koyambedu" title="koyambedu" href="cmbt.html" coords="445,529,546,565" shape="rect">
+        <area target="_blank" alt="annanagar" title="annanagar" href="annanagar.html" coords="758,363,643,310" shape="rect">
+        <area target="_blank" alt="mogappair" title="mogappair" href="mogappair.html" coords="178,331,287,371" shape="rect">
+        <area target="_blank" alt="ayanavaram" title="ayanavaram" href="ayanavaram.html" coords="950,135,1069,165" shape="rect">
     </map>
 </body>
 </html>
@@ -55,7 +55,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Edward Elliot's Beach</title>
+    <title>Chennai Mofussil Bus Terminus</title>
     <style>
         h1{
             text-align: center;
@@ -71,10 +71,40 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Edward Elliot's Beach</h1>
+    <h1>Chennai Mofussil Bus Terminus</h1>
     <br>
     <hr color="Brown">
-    <p>Edward Elliot's Beach, simply called as Elliot's Beach and popularly known as Besant Nagar Beach or the Bessie, is a natural urban beach located in the Besant Nagar neighbourhood of Chennai, Tamil Nadu, India. It is located next to the southern tip of the Marina Beach,[1] and was named after Edward Elliot, a chief magistrate and superintendent of police of the Madras Presidency in colonial India.[2] It has the Shrine of Our Lady of Good Health—also known as Annai Vailankanni Church—on its shore, and the Ashtalakshmi Temple nearby.</p>
+    <p>Chennai Mofussil Bus Terminus, officially Puratchi Thalaivar Dr. M.G.R. Bus Terminus, is a bus terminus located in Chennai, India, providing inter-state bus transport services. It is located on the 100 feet (30 m) Jawaharlal Nehru Salai in Koyambedu between SAF Games Village and the Koyambedu Vegetable Market. It is the second largest bus terminus in India as well as Asia.[1][2] Chennai Metro Rail has operated a coach depot behind the bus terminus since 2015.</p>
+</body>
+</html>
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VR Mall</title>
+    <style>
+        h1{
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color:darkslategray;
+        }
+        p{
+            text-align: justify;
+            color:darkolivegreen;
+            font-size: x-large;
+            
+        }
+    </style>
+</head>
+<body>
+    <h1>VR Mall</h1>
+    <br>
+    <hr color="Brown">
+    <p>VR Chennai (Tamil: வி. ஆர். சென்னை) is a shopping mall located on Jawaharlal Nehru Road in Anna Nagar West, Chennai, Tamil Nadu, India.[3] This mall was opened to the public on 18 June 2018.[1] It is one of the largest malls in Chennai by area, occupying 1,840,000 square feet (171,000 m2) built-up area with 1,000,000 square feet (93,000 m2) of retail space.</p>
 
 </body>
 </html>
@@ -86,7 +116,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phoenix Marketcity</title>
+    <title>Anna Nagar</title>
     <style>
         h1{
             text-align: center;
@@ -102,11 +132,10 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Phoenix Marketcity</h1>
+    <h1>Anna Nagar</h1>
     <br>
     <hr color="Brown">
-    <p>Phoenix Marketcity is a shopping mall developed by Phoenix Mills Limited located in Chennai, Tamil Nadu, India. It was opened in January 2013[1] and is the 2nd largest mall in the city. It was the fourth largest mall in India in 2018. It has a built up area of 1,000,000 square feet. Also there is a Palladium mall situated right next to it.</p>
-
+    <p>Anna Nagar (formerly known as Naduvakkarai),[1] is a neighbourhood in the metropolitan city of Chennai, India. Named after former chief minister of Tamil Nadu C. N. Annadurai, it is located in the north-western part of Chennai and forms a part of the Aminjikarai taluk and the Anna Nagar Zone. It is one of the prime residential areas in Chennai and is home to several prominent doctors, lawyers and politicians. Real estate prices are among the highest in the city.[2] A recent addition to the area is VR Chennai Mall, located near Shanthi Colony and Thirumangalam junction.</p>
 </body>
 </html>
 ```
@@ -117,7 +146,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ITC Grand Chola Hotel</title>
+    <title>Mogappair</title>
     <style>
         h1{
             text-align: center;
@@ -133,11 +162,10 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>ITC Grand Chola Hotel</h1>
+    <h1>Mogappair</h1>
     <br>
     <hr color="Brown">
-    <p>The ITC Grand Chola is a 5-star luxury hotel in Chennai, India.[4] It is located in Guindy, opposite SPIC building and along the same row of buildings as Ashok Leyland Towers. The building, designed by Singapore-based SRSS Architects, is of mixed-use development with three separate wings and is themed after traditional Dravidian architecture of the Chola dynasty.[5] The hotel is the ninth hotel in The Luxury Collection brand</p>
-
+    <p>Mogappair (also known as Dr. J. J. Nagar) is a residential neighborhood in north-western Chennai, India. It is located west of the Jawaharlal Nehru Road (Inner Ring Road) and is part of the Ambattur zone (7) of the Greater Chennai Corporation. There are industrial estates to the north and west, namely, Padi and Ambattur.</p>
 </body>
 </html>
 ```
@@ -148,7 +176,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guindy National Park</title>
+    <title>Ayanavaram</title>
     <style>
         h1{
             text-align: center;
@@ -164,58 +192,22 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Guindy National Park</h1>
+    <h1>Ayanavaram</h1>
     <br>
     <hr color="Brown">
-    <p>Guindy National Park is a 2.70 km2 (1.04 sq mi) protected area of Tamil Nadu, located in Chennai, India, is the 8th-smallest National Park of India and one of the very few national parks situated inside a city. The park is an extension of the grounds surrounding Raj Bhavan, formerly known as the 'Guindy Lodge', the official residence of the governor of Tamil Nadu, India. It extends deep inside the governor's estate, enclosing beautiful forests, scrub lands, lakes and streams.</p>
-
-</body>
-</html>
-```
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Indian Institutes of Technology</title>
-    <style>
-        h1{
-            text-align: center;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color:darkslategray;
-        }
-        p{
-            text-align: justify;
-            color:darkolivegreen;
-            font-size: x-large;
-            
-        }
-    </style>
-</head>
-<body>
-    <h1>Indian Institutes of Technology</h1>
-    <br>
-    <hr color="Brown">
-    <p>he Indian Institute of Technology (IITs) are Centrally Funded Technical Institutes located across India. They are under the ownership of the Ministry of Education of the Government of India and are governed by the Institutes of Technology Act, 1961. The Act declares them as Institutes of National Importance and lays down their powers, duties, and framework for governance as the country's premier institutions in the field of technology.</p>
-
+    <p>The neighbourhood was originally known as Ayanpuram, with Ayan meaning Brahma. When Lord Muruga admonished Brahma and took over creation, it is believed that Brahma prayed to Shiva here and got his action of creativity back. It is believed that Brahma worshipped Shiva at Parasurama Easwaran Koil. It is in recognition of that Ayanpuram is named. (It was also called Brahmapuri)</p>
 </body>
 </html>
 ```
 
 ## OUTPUT
-![image](https://github.com/knight7080/NearMe/assets/88542035/bbc8e717-44de-474d-a34b-51b8b6f52d70)
-![image](https://github.com/knight7080/NearMe/assets/88542035/be6cd0e3-4918-4e58-8d34-88499cf7b18d)
-![image](https://github.com/knight7080/NearMe/assets/88542035/b4b3a2a8-f45f-4891-82ca-63f10d786857)
-![image](https://github.com/knight7080/NearMe/assets/88542035/35164b7a-5b12-40a3-b909-c2463c4ec0e3)
-![image](https://github.com/knight7080/NearMe/assets/88542035/5b8f0258-c732-4749-af9c-22420666f571)
-![image](https://github.com/knight7080/NearMe/assets/88542035/c84e35c0-989e-4b33-8163-bb9c359429c8)
-![image](https://github.com/knight7080/NearMe/assets/88542035/1be99215-e281-4de7-aa71-8be026d08d85)
-
-
-
-
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
 
 
 
