@@ -201,13 +201,13 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
-![Alt text](image-6.png)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/028110d8-87be-4213-9b98-4b9369241d68)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/1b52e7b2-789a-494b-8d5c-2cbd84a63c45)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/34c002fd-65af-4fe0-ac3b-4cdee649093e)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/d038a47c-269a-468d-9c00-057381b7e944)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/ea4a205e-8f89-4da7-8198-4f74f8d02bff)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/4d970c5f-ef0b-44cf-bc24-dd1b0d44cd50)
+![image](https://github.com/Khabir-Ahmed786/NearMe/assets/143950752/e852fef2-d63c-4612-85dc-a549d3c0deaa)
 
 
 
